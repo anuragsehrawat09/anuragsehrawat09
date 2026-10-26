@@ -10,8 +10,7 @@ I'm a third-year B.Tech Computer Science Engineering student specializing in **D
 - 💻 Exploring computer vision, YOLO, and Streamlit applications
 - ☁️ Familiar with AWS cloud fundamentals
 - 🎯 Goal: Secure a Data Science or Data Analyst internship and grow into a Data Scientist
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
-
+- 📫 Connect with me on linkedin.com/in/anuragsehrawat
 ---
 
 ## 🛠️ Tech Stack
